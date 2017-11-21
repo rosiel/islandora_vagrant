@@ -14,7 +14,7 @@ drush --root=/var/www/drupal role-add-perm "authenticated user" "view fedora rep
 drush --root=/var/www/drupal cc all
 
 # Add useful modules
-drush --root=/var/www/drupal -v -y en admin_menu module_filter
+drush --root=/var/www/drupal -v -y en admin_menu module_filter views_ui
 drush --root=/var/www/drupal -v -y pm-disable toolbar
 
 # Add xdebug
