@@ -25,7 +25,7 @@ echo '          ⊹                                            ⋆ ✧          
 echo '      ·         ✧    I S L A N D O R A    7 . x - 1 . 1 1               .       '
 echo '                                                                ·           ·  .'
 echo '        ✦ ✦                         ˚             *        ⋆                    '
-echo '           ˚   ✦     ✧  .   ·  ˚  .  R C 1          *             .             '
+echo '           ˚   ✦     ✧  .   ·  ˚  .  R C 2          *             .             '
 echo '  ✦                          ˚               ˚                              ✦   '
 echo '            ·             ⋆                                        ⊹         ⋆  '
 echo '      ˚                 ˚     ·        ·        ˚              *'
